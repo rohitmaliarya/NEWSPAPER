@@ -1,6 +1,6 @@
 # NodeSure NewsLetter
 
-[youtube](https://www.youtube.com/watch?v=tZf2mtII3bw)
+[Demo video ](https://www.youtube.com/watch?v=tZf2mtII3bw)
 
 NodeSure NewsLetter is a modern, full-stack newspaper subscription platform. Users can subscribe to a free or pro plan, receive curated news and analysis, and enjoy a seamless payment experience powered by Stripe. The project features a beautiful React frontend, Node.js/Express backend, and Stripe integration for secure payments.
 
