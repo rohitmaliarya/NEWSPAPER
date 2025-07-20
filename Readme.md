@@ -1,8 +1,13 @@
 # NodeSure NewsLetter
 
+[youtube](https://www.youtube.com/watch?v=tZf2mtII3bw)
+
 NodeSure NewsLetter is a modern, full-stack newspaper subscription platform. Users can subscribe to a free or pro plan, receive curated news and analysis, and enjoy a seamless payment experience powered by Stripe. The project features a beautiful React frontend, Node.js/Express backend, and Stripe integration for secure payments.
 
 ---
+
+
+
 
 ## Features
 
@@ -106,7 +111,7 @@ npm run dev
 #### b. In a new terminal, use the Stripe CLI:
 
 ```sh
-stripe listen --forward-to localhost:8080/api/webhook
+stripe listen --forward-to localhost:8080/webhook
 ```
 
 #### c. Copy the webhook secret from the CLI output and add it to your `.env` as `STRIPE_WEBHOOK_SECRET`.
