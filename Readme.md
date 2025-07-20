@@ -6,8 +6,9 @@ NodeSure NewsLetter is a modern, full-stack newspaper subscription platform. Use
 
 ---
 
+![image0](image.png)
 
-
+![alt text](image-1.png)
 
 ## Features
 
@@ -20,6 +21,7 @@ NodeSure NewsLetter is a modern, full-stack newspaper subscription platform. Use
 - 📝 **Admin-ready**: Easily extendable for admin dashboards and analytics.
 
 ---
+![alt text](image-2.png)
 
 ## Tech Stack
 
@@ -58,12 +60,9 @@ npm install
 #### Backend (`server/.env`)
 
 ```env
-PORT=8080
-STRIPE_SECRET_KEY=sk_test_...
-STRIPE_WEBHOOK_SECRET=whsec_...
-CLIENT_URL=http://localhost:5173
-DATABASE_URL=your_database_url # if using a DB
+refer to .env.example
 ```
+![alt text](image-3.png)
 
 #### Frontend (`client/.env`)
 
@@ -171,4 +170,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## Contact
 
-For questions or support, open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, open an issue or contact [rohitmaliarya@gmail.com].
+
+---
